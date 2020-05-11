@@ -1,0 +1,1000 @@
+pmid	relevant (automated classifier)	manual validation																	
+31058569	FALSE	yes																	
+30864942	FALSE	yes																	
+29671949	FALSE	no																	
+28068879	TRUE	yes																	
+28033643	FALSE	no																	
+28006712	TRUE	no																	
+27994395	FALSE	no																	
+27939739	TRUE	yes																	
+27933278	FALSE	yes																	
+27931575	FALSE	no																	
+27928670	FALSE	yes																	
+27916357	FALSE	yes																	
+27906473	FALSE	yes																	
+27900221	FALSE	yes																	
+27863648	TRUE	yes																	
+27685840	FALSE	yes																	
+27780375	FALSE	no																	
+27764889	FALSE	yes																	
+27748691	TRUE	yes																	
+27737438	TRUE	yes																	
+27670964	TRUE	yes																	
+30742292	FALSE	yes																	
+30974626	FALSE	no																	
+27626763	FALSE	yes																	
+27604910	FALSE	yes																	
+27558926	FALSE	no																	
+27514703	FALSE	no																	
+27399850	TRUE	yes																	
+27393054	FALSE	yes																	
+27334003	FALSE	no																	
+27264620	TRUE	yes																	
+27251846	FALSE	yes																	
+30640432	TRUE	yes																	
+27243017	FALSE	yes																	
+27223252	TRUE	yes																	
+27183432	FALSE	yes																	
+27180148	FALSE	yes																	
+27142254	TRUE	yes																	
+27127344	FALSE	yes																	
+27124744	FALSE	yes																	
+27099720	FALSE	yes																	
+27079435	FALSE	no																	
+27041362	FALSE	yes																	
+30615257	TRUE	yes																	
+27027714	FALSE	no																	
+27015665	TRUE	yes																	
+26993353	FALSE	yes																	
+26992619	FALSE	no																	
+26872587	FALSE	yes																	
+26847499	TRUE	yes																	
+26840276	FALSE	no																	
+26794324	FALSE	yes																	
+26750608	TRUE	yes																	
+26729217	FALSE	no																	
+30608294	TRUE	yes																	
+26712241	FALSE	yes																	
+26690793	TRUE	yes																	
+26671204	TRUE	yes																	
+26631923	FALSE	no																	
+26602900	TRUE	yes																	
+26596498	TRUE	yes																	
+26594357	TRUE	yes																	
+26586299	FALSE	yes																	
+26584412	TRUE	yes																	
+29075610	FALSE	yes																	
+26501937	FALSE	no																	
+26495212	FALSE	yes																	
+26484972	FALSE	yes																	
+26442289	FALSE	yes																	
+26434482	FALSE	yes																	
+26432575	TRUE	no																	
+26397247	FALSE	no																	
+26345301	FALSE	yes																	
+30523703	FALSE	no																	
+26340132	TRUE	yes																	
+26319981	TRUE	yes																	
+26275911	TRUE	yes																	
+26255542	TRUE	no																	
+26125649	FALSE	yes																	
+26072181	FALSE	yes																	
+26051867	FALSE	no																	
+26042622	TRUE	yes																	
+26011076	FALSE	yes																	
+25998193	FALSE	yes																	
+30522504	FALSE	no																	
+25992073	FALSE	yes																	
+25987265	TRUE	yes																	
+25951921	FALSE	no																	
+25931939	FALSE	yes																	
+25917945	TRUE	yes																	
+25720384	TRUE	yes																	
+25702535	TRUE	yes																	
+25698261	TRUE	yes																	
+25628013	TRUE	yes																	
+25611092	TRUE	yes																	
+30538932	FALSE	yes																	
+25598072	TRUE	yes																	
+25590975	FALSE	no																	
+25556881	FALSE	yes																	
+25555893	FALSE	yes																	
+25536359	FALSE	yes																	
+25518299	TRUE	yes																	
+25465486	FALSE	yes																	
+25445313	FALSE	yes																	
+25442652	FALSE	yes																	
+25425048	TRUE	yes																	
+31044251	FALSE	yes																	
+30468567	TRUE	yes																	
+25392663	FALSE	yes																	
+25323185	FALSE	yes																	
+25320027	FALSE	yes																	
+25303014	FALSE	yes																	
+25256666	TRUE	yes																	
+25231161	TRUE	yes																	
+25230697	FALSE	yes																	
+25229534	FALSE	yes																	
+25227180	TRUE	yes																	
+25204522	TRUE	yes																	
+30410326	FALSE	no																	
+25201643	TRUE	yes																	
+25189445	FALSE	yes																	
+25175216	TRUE	yes																	
+25153813	FALSE	yes																	
+25076542	TRUE	yes																	
+25053269	FALSE	yes																	
+25048565	FALSE	yes																	
+24952366	FALSE	yes																	
+24951048	TRUE	yes																	
+24912878	TRUE	yes																	
+30370567	FALSE	yes																	
+24859461	TRUE	yes																	
+24780665	FALSE	yes																	
+24753834	FALSE	yes																	
+24702673	TRUE	yes																	
+24700213	FALSE	yes																	
+24688180	FALSE	yes																	
+24630157	TRUE	yes																	
+24569427	FALSE	yes																	
+24567183	FALSE	yes																	
+24535074	TRUE	yes																	
+30367544	TRUE	yes																	
+24500785	TRUE	yes																	
+24446473	TRUE	yes																	
+24443347	TRUE	yes																	
+24439741	FALSE	yes																	
+24398195	TRUE	yes																	
+24346587	FALSE	yes																	
+24327249	TRUE	no																	
+24327244	FALSE	no																	
+24268394	TRUE	yes																	
+24168264	TRUE	yes																	
+30343013	TRUE	yes																	
+24142603	FALSE	yes																	
+24114624	FALSE	yes																	
+24111750	FALSE	yes																	
+24100687	TRUE	yes																	
+24056225	TRUE	yes																	
+24048334	FALSE	yes																	
+24039851	TRUE	yes																	
+24011711	TRUE	yes																	
+24007707	FALSE	yes																	
+24004343	TRUE	yes																	
+30338691	FALSE	no																	
+24004331	TRUE	yes																	
+23875149	FALSE	yes																	
+23868863	TRUE	yes																	
+23859304	FALSE	no																	
+23780540	FALSE	yes																	
+23769462	FALSE	yes																	
+23766962	FALSE	yes																	
+23760749	TRUE	yes																	
+23715169	FALSE	no																	
+23703875	TRUE	yes																	
+23690259	FALSE	yes																	
+23688344	TRUE	yes																	
+23678382	FALSE	no																	
+23663821	FALSE	yes																	
+23625859	TRUE	yes																	
+23558021	TRUE	yes																	
+23532830	FALSE	yes																	
+23526091	FALSE	no																	
+23523293	FALSE	yes																	
+30281899	TRUE	yes																	
+23515178	TRUE	yes																	
+23475586	TRUE	yes																	
+23465634	FALSE	yes																	
+23460487	FALSE	yes																	
+23443478	FALSE	yes																	
+23434269	FALSE	no																	
+23432605	FALSE	yes																	
+23432538	FALSE	yes																	
+23406175	TRUE	yes																	
+23398458	FALSE	yes																	
+30183745	FALSE	no																	
+23340094	FALSE	yes																	
+23337686	FALSE	yes																	
+23327178	FALSE	no																	
+23278221	TRUE	yes																	
+23215860	FALSE	yes																	
+23150121	TRUE	yes																	
+23108502	TRUE	yes																	
+23090765	TRUE	yes																	
+23061960	FALSE	yes																	
+23051783	FALSE	yes																	
+23018714	FALSE	yes																	
+22974043	FALSE	no																	
+22965809	TRUE	no																	
+22961670	TRUE	yes																	
+22958808	FALSE	no																	
+22956956	TRUE	yes																	
+22953643	FALSE	no																	
+22951164	FALSE	yes																	
+22901526	FALSE	yes																	
+31040039	FALSE	no																	
+22888016	TRUE	yes																	
+22872845	FALSE	yes																	
+22872255	FALSE	yes																	
+22840802	TRUE	yes																	
+22797960	FALSE	no																	
+22777625	FALSE	yes																	
+22777456	FALSE	yes																	
+22777450	FALSE	yes																	
+22771098	FALSE	no																	
+22762905	FALSE	yes																	
+30091512	TRUE	yes																	
+22752470	FALSE	yes																	
+22727899	FALSE	yes																	
+22684976	FALSE	yes																	
+22494881	FALSE	yes																	
+22489796	FALSE	yes																	
+25991941	FALSE	yes																	
+22447769	TRUE	yes																	
+22404267	FALSE	yes																	
+30062657	FALSE	no																	
+22337400	FALSE	yes																	
+22337397	FALSE	no																	
+22310132	FALSE	yes																	
+22283106	FALSE	yes																	
+22261748	FALSE	yes																	
+22231722	TRUE	yes																	
+22218873	FALSE	yes																	
+22208830	FALSE	yes																	
+22208825	FALSE	yes																	
+22207604	FALSE	yes																	
+30058213	TRUE	yes																	
+22204078	FALSE	yes																	
+22191129	FALSE	yes																	
+27628115	FALSE	yes																	
+22121052	TRUE	yes																	
+22120101	FALSE	yes																	
+22103965	FALSE	yes																	
+22088813	FALSE	yes																	
+22071352	TRUE	yes																	
+22051281	TRUE	yes																	
+21992970	TRUE	yes																	
+29967311	TRUE	yes																	
+21985713	TRUE	yes																	
+21985466	FALSE	yes																	
+21964578	FALSE	yes																	
+21959404	FALSE	yes																	
+21945675	FALSE	yes																	
+21931293	TRUE	yes																	
+21905845	FALSE	yes																	
+21885070	TRUE	yes																	
+21770981	FALSE	yes																	
+29883919	FALSE	yes																	
+21740556	FALSE	yes																	
+21690454	FALSE	yes																	
+21649712	TRUE	yes																	
+21627429	FALSE	yes																	
+21623562	FALSE	no																	
+21610538	FALSE	yes																	
+21543114	TRUE	yes																	
+21527195	FALSE	yes																	
+21472976	TRUE	yes																	
+29853432	FALSE	yes																	
+21457976	FALSE	yes																	
+21440113	FALSE	yes																	
+21374573	FALSE	yes																	
+21355807	FALSE	no																	
+21352894	TRUE	yes																	
+21342739	FALSE	yes																	
+21338970	FALSE	yes																	
+21334911	FALSE	no																	
+21333166	FALSE	yes																	
+21292212	FALSE	yes																	
+29793778	FALSE	yes																	
+21254041	FALSE	yes																	
+21223313	FALSE	yes																	
+21108036	FALSE	yes																	
+21088646	TRUE	yes																	
+21075757	TRUE	yes																	
+21036072	TRUE	yes																	
+21034894	FALSE	yes																	
+20971528	FALSE	yes																	
+20839075	TRUE	yes																	
+29771844	FALSE	yes																	
+20834000	FALSE	yes																	
+20810086	FALSE	yes																	
+20816357	FALSE	yes																	
+20716270	FALSE	yes																	
+20696471	TRUE	yes																	
+20690843	TRUE	yes																	
+20660069	FALSE	no																	
+20613556	TRUE	yes																	
+20557697	TRUE	no																	
+29724622	FALSE	no																	
+20513028	FALSE	yes																	
+20495791	TRUE	yes																	
+20480841	FALSE	yes																	
+20452245	FALSE	yes																	
+27022549	TRUE	yes																	
+20395793	FALSE	yes																	
+20373050	TRUE	yes																	
+20230595	FALSE	yes																	
+20230594	FALSE	yes																	
+31022203	FALSE	yes																	
+29702721	FALSE	no																	
+20181391	TRUE	yes																	
+20137010	FALSE	no																	
+20122319	TRUE	yes																	
+20083734	FALSE	no																	
+20005500	FALSE	yes																	
+19934439	TRUE	yes																	
+19921200	FALSE	no																	
+19815970	TRUE	no																	
+19792858	FALSE	no																	
+19732635	FALSE	yes																	
+29692891	FALSE	yes																	
+19730038	FALSE	yes																	
+19689669	FALSE	yes																	
+19653305	TRUE	yes																	
+19595456	TRUE	yes																	
+19575442	TRUE	no																	
+19568520	FALSE	yes																	
+19530906	FALSE	yes																	
+29660790	TRUE	yes																	
+23133135	FALSE	yes																	
+19426182	FALSE	no																	
+19409126	FALSE	yes																	
+19394638	FALSE	yes																	
+19389016	FALSE	yes																	
+19372619	TRUE	yes																	
+19371838	TRUE	yes																	
+19353561	TRUE	yes																	
+19345869	FALSE	yes																	
+19300233	FALSE	yes																	
+29643810	TRUE	yes																	
+19299161	TRUE	yes																	
+19285296	FALSE	yes																	
+19233465	TRUE	yes																	
+19231586	TRUE	yes																	
+19157423	FALSE	no																	
+19144266	TRUE	yes																	
+19110154	FALSE	yes																	
+19083551	FALSE	yes																	
+19076771	FALSE	yes																	
+18947605	TRUE	yes																	
+29624479	TRUE	yes																	
+18851880	TRUE	yes																	
+18711058	FALSE	no																	
+18687027	FALSE	no																	
+18678508	TRUE	yes																	
+18657747	FALSE	yes																	
+18628627	FALSE	yes																	
+18604681	FALSE	yes																	
+18594415	TRUE	yes																	
+18589266	FALSE	no																	
+29615798	TRUE	yes																	
+18587489	FALSE	yes																	
+18545717	FALSE	yes																	
+18518674	TRUE	yes																	
+18504147	TRUE	yes																	
+18460759	TRUE	yes																	
+18458759	TRUE	yes																	
+18347240	TRUE	yes																	
+18320170	FALSE	yes																	
+18269480	FALSE	yes																	
+18242360	FALSE	yes																	
+29607275	TRUE	yes																	
+18216046	FALSE	yes																	
+18157488	FALSE	yes																	
+18085498	FALSE	no																	
+18085497	TRUE	yes																	
+18076436	FALSE	no																	
+18060964	TRUE	yes																	
+18006049	FALSE	yes																	
+18004554	TRUE	yes																	
+17988437	TRUE	yes																	
+17986421	FALSE	yes																	
+29543562	FALSE	no																	
+17919122	TRUE	yes																	
+17916485	FALSE	yes																	
+17897890	TRUE	no																	
+17707427	FALSE	yes																	
+17701369	FALSE	yes																	
+17670681	TRUE	yes																	
+17608253	FALSE	yes																	
+17560481	FALSE	yes																	
+17507243	FALSE	yes																	
+17478750	FALSE	no																	
+29474522	FALSE	no																	
+17465022	FALSE	yes																	
+17419096	FALSE	yes																	
+17418338	FALSE	yes																	
+17414297	FALSE	yes																	
+17397302	FALSE	yes																	
+17326141	TRUE	yes																	
+17322128	FALSE	yes																	
+17263695	FALSE	yes																	
+17214822	FALSE	yes																	
+17157724	FALSE	yes																	
+29430501	FALSE	yes																	
+17139470	TRUE	yes																	
+17137599	FALSE	yes																	
+17131267	FALSE	yes																	
+17131266	FALSE	yes																	
+17089987	FALSE	no																	
+17084288	FALSE	yes																	
+17073957	FALSE	yes																	
+17027413	FALSE	yes																	
+17027403	FALSE	yes																	
+31016876	TRUE	yes																	
+29368176	TRUE	no																	
+16989736	TRUE	yes																	
+16980896	TRUE	yes																	
+16977393	TRUE	yes																	
+16977345	TRUE	yes																	
+16904598	FALSE	yes																	
+16896750	FALSE	no																	
+16896739	TRUE	yes																	
+16865616	TRUE	yes																	
+16848057	FALSE	yes																	
+16779815	TRUE	yes																	
+29341388	FALSE	yes																	
+16701785	TRUE	yes																	
+16699283	FALSE	yes																	
+16646698	FALSE	yes																	
+16642872	FALSE	yes																	
+16545449	TRUE	yes																	
+16442157	TRUE	yes																	
+16411999	FALSE	yes																	
+16409410	FALSE	yes																	
+16399109	FALSE	yes																	
+29330984	FALSE	yes																	
+16343143	TRUE	yes																	
+16240081	TRUE	yes																	
+16211566	TRUE	yes																	
+16163104	FALSE	yes																	
+16143872	FALSE	no																	
+16053365	FALSE	yes																	
+16006973	TRUE	yes																	
+15991233	TRUE	yes																	
+15984709	FALSE	yes																	
+15979853	TRUE	yes																	
+29322875	FALSE	yes																	
+15911666	FALSE	yes																	
+15910717	FALSE	yes																	
+15887094	TRUE	yes																	
+15883939	FALSE	no																	
+15859359	FALSE	no																	
+15841637	FALSE	no																	
+15792541	TRUE	yes																	
+15791971	FALSE	yes																	
+15789321	FALSE	yes																	
+15720592	FALSE	yes																	
+29303687	FALSE	yes																	
+15719390	FALSE	yes																	
+15711842	FALSE	yes																	
+15626221	FALSE	yes																	
+15604576	FALSE	yes																	
+15547532	FALSE	yes																	
+15533968	FALSE	yes																	
+15491724	FALSE	yes																	
+15490806	FALSE	no																	
+15475061	TRUE	no																	
+15362991	FALSE	yes																	
+29296569	FALSE	yes																	
+15318980	FALSE	yes																	
+15253076	FALSE	no																	
+15249253	FALSE	yes																	
+15247766	FALSE	yes																	
+15224166	FALSE	no																	
+15223472	FALSE	yes																	
+15198227	FALSE	yes																	
+15076316	FALSE	yes																	
+14743321	TRUE	yes																	
+29285521	TRUE	yes																	
+14725097	FALSE	no																	
+14648537	FALSE	yes																	
+14620122	TRUE	yes																	
+14577722	TRUE	no																	
+12873869	TRUE	yes																	
+12819506	FALSE	yes																	
+12811656	FALSE	yes																	
+12741581	FALSE	yes																	
+12618615	FALSE	yes																	
+12616076	FALSE	yes																	
+29184731	FALSE	yes																	
+12539022	FALSE	no																	
+12522405	TRUE	yes																	
+12492104	FALSE	no																	
+12447062	FALSE	yes																	
+12390568	TRUE	yes																	
+12368796	FALSE	yes																	
+12361068	FALSE	no																	
+12355126	FALSE	yes																	
+12162970	FALSE	yes																	
+12162896	TRUE	yes																	
+29151569	FALSE	yes																	
+12115760	FALSE	no																	
+12115759	FALSE	no																	
+12113266	FALSE	yes																	
+12033607	FALSE	yes																	
+12028631	FALSE	yes																	
+12001260	TRUE	yes																	
+11994857	FALSE	yes																	
+11951184	FALSE	yes																	
+11829033	TRUE	yes																	
+11786834	FALSE	yes																	
+29150929	FALSE	yes																	
+11760872	TRUE	yes																	
+11745519	TRUE	no																	
+11742175	TRUE	yes																	
+11734487	FALSE	yes																	
+11684831	FALSE	yes																	
+11642536	FALSE	no																	
+11518348	FALSE	no																	
+11490124	FALSE	no																	
+11472047	TRUE	yes																	
+11426639	TRUE	yes																	
+31009327	FALSE	no																	
+29128386	FALSE	no																	
+11418899	TRUE	yes																	
+11416831	FALSE	yes																	
+11304594	FALSE	yes																	
+11298045	FALSE	yes																	
+11292034	TRUE	yes																	
+11289617	FALSE	yes																	
+11288004	FALSE	yes																	
+11266256	FALSE	no																	
+11240057	FALSE	no																	
+11239357	FALSE	yes																	
+29061356	TRUE	yes																	
+11216785	FALSE	no																	
+11200831	FALSE	no																	
+11133543	FALSE	no																	
+11074836	TRUE	yes																	
+11030396	FALSE	no																	
+10971034	TRUE	yes																	
+10914804	TRUE	yes																	
+10900623	TRUE	yes																	
+10898880	TRUE	yes																	
+10878837	TRUE	yes																	
+29059609	FALSE	yes																	
+10843132	FALSE	yes																	
+10773130	FALSE	no																	
+10759796	FALSE	yes																	
+10743862	TRUE	yes																	
+10715066	FALSE	yes																	
+10708139	FALSE	yes																	
+10705334	FALSE	yes																	
+10555851	FALSE	no																	
+10555794	FALSE	no																	
+29050590	TRUE	yes																	
+10489128	FALSE	no																	
+10483971	FALSE	yes																	
+10454314	FALSE	yes																	
+10452239	FALSE	no																	
+10448728	FALSE	no																	
+10426237	FALSE	yes																	
+10398022	TRUE	yes																	
+10370697	FALSE	yes																	
+10365834	FALSE	yes																	
+10363105	TRUE	yes																	
+29039988	FALSE	no																	
+10355716	FALSE	yes																	
+10340077	FALSE	yes																	
+10319334	TRUE	yes																	
+10223532	FALSE	yes																	
+10190352	FALSE	yes																	
+9915152	FALSE	yes																	
+9689368	FALSE	yes																	
+9647093	FALSE	yes																	
+9549265	FALSE	no																	
+28917130	FALSE	yes																	
+9544148	FALSE	yes																	
+9470116	TRUE	yes																	
+9442327	FALSE	yes																	
+10186967	TRUE	yes																	
+9232793	FALSE	yes																	
+9237581	FALSE	yes																	
+9215079	TRUE	no																	
+9203598	FALSE	yes																	
+28915290	FALSE	yes																	
+9193270	FALSE	no																	
+9075281	TRUE	yes																	
+9730535	FALSE	yes																	
+9043617	FALSE	yes																	
+9037292	TRUE	yes																	
+9408372	FALSE	no																	
+9013110	FALSE	no																	
+8934328	FALSE	no																	
+8823020	FALSE	no																	
+28876614	FALSE	yes																	
+9074194	FALSE	yes																	
+8869333	FALSE	yes																	
+8856544	FALSE	yes																	
+8803412	TRUE	yes																	
+8835832	FALSE	yes																	
+8811548	FALSE	no																	
+8810025	TRUE	yes																	
+8677119	FALSE	yes																	
+8725548	TRUE	yes																	
+28873371	FALSE	yes																	
+8680924	TRUE	yes																	
+8911843	FALSE	yes																	
+8833285	FALSE	yes																	
+8722983	FALSE	no																	
+8711606	FALSE	no																	
+7488363	FALSE	yes																	
+8582902	TRUE	yes																	
+8523317	FALSE	no																	
+8541424	FALSE	yes																	
+8526269	FALSE	yes																	
+28861698	FALSE	yes																	
+7502624	FALSE	no																	
+7609197	FALSE	yes																	
+7594994	TRUE	yes																	
+7473455	FALSE	no																	
+7598621	FALSE	yes																	
+7571384	FALSE	yes																	
+7662774	FALSE	yes																	
+7610748	FALSE	yes																	
+7735680	FALSE	no																	
+30986157	FALSE	no																	
+28842104	FALSE	yes																	
+7721471	FALSE	yes																	
+7662820	TRUE	yes																	
+9050564	FALSE	yes																	
+7855974	FALSE	yes																	
+7838554	TRUE	yes																	
+7880354	FALSE	yes																	
+7831597	FALSE	yes																	
+7827883	FALSE	yes																	
+28831833	FALSE	no																	
+7953459	FALSE	no																	
+7945638	FALSE	yes																	
+7803589	TRUE	yes																	
+7948349	FALSE	yes																	
+7940491	TRUE	yes																	
+8175836	TRUE	yes																	
+8152233	TRUE	yes																	
+8180462	FALSE	yes																	
+8081918	FALSE	yes																	
+28778504	TRUE	yes																	
+8005770	TRUE	yes																	
+7841150	TRUE	yes																	
+7833206	FALSE	yes																	
+8116200	FALSE	yes																	
+8043055	FALSE	yes																	
+8412253	FALSE	yes																	
+8412250	FALSE	yes																	
+8408127	TRUE	yes																	
+8379632	FALSE	yes																	
+8360222	TRUE	yes																	
+28762567	TRUE	yes																	
+8349897	FALSE	yes																	
+8358583	FALSE	yes																	
+8331626	FALSE	yes																	
+8496370	FALSE	yes																	
+8362503	FALSE	yes																	
+8316422	TRUE	yes																	
+8006557	FALSE	yes																	
+8418973	FALSE	yes																	
+1477062	FALSE	yes																	
+28737307	FALSE	no																	
+1467895	FALSE	yes																	
+1513168	FALSE	yes																	
+1392234	FALSE	no																	
+1329307	TRUE	yes																	
+1290785	TRUE	yes																	
+1429891	TRUE	no																	
+1596717	FALSE	yes																	
+1377271	FALSE	yes																	
+28708470	FALSE	no																	
+1317917	FALSE	yes																	
+1552020	TRUE	yes																	
+1544972	FALSE	yes																	
+1540056	FALSE	no																	
+10150023	FALSE	no																	
+1580057	FALSE	yes																	
+1466701	FALSE	no																	
+1406232	FALSE	no																	
+10171207	TRUE	yes																	
+1836463	FALSE	no																	
+28706821	FALSE	yes																	
+1920642	FALSE	no																	
+1833846	TRUE	yes																	
+1913072	FALSE	yes																	
+2047057	FALSE	yes																	
+1836337	TRUE	yes																	
+1904335	TRUE	yes																	
+1874669	TRUE	yes																	
+2051429	FALSE	no																	
+1904906	FALSE	no																	
+1901481	FALSE	yes																	
+30233954	FALSE	yes																	
+1900149	FALSE	no																	
+1649786	FALSE	yes																	
+1909081	FALSE	yes																	
+1786130	FALSE	yes																	
+2177471	TRUE	yes																	
+2121389	FALSE	no																	
+2146942	TRUE	yes																	
+2146273	FALSE	no																	
+2119165	FALSE	yes																	
+2202435	FALSE	yes																	
+28634623	FALSE	yes																	
+2117098	FALSE	yes																	
+2142411	FALSE	yes																	
+2127290	FALSE	no																	
+2118910	TRUE	yes																	
+2111412	FALSE	no																	
+2161688	FALSE	yes																	
+15227391	FALSE	yes																	
+2405581	FALSE	yes																	
+28620160	TRUE	yes																	
+2113817	FALSE	yes																	
+2105750	TRUE	yes																	
+2517501	FALSE	yes																	
+2515237	FALSE	yes																	
+2557950	FALSE	yes																	
+2513084	FALSE	yes																	
+2509481	FALSE	yes																	
+2674091	TRUE	yes																	
+2518585	FALSE	yes																	
+2505438	FALSE	yes																	
+30985064	TRUE	yes																	
+28602788	FALSE	yes																	
+2504915	FALSE	yes																	
+2509688	FALSE	yes																	
+2505437	FALSE	no																	
+2495876	TRUE	yes																	
+2494011	FALSE	no																	
+2919353	TRUE	no																	
+2918734	FALSE	yes																	
+2757125	TRUE	yes																	
+28579781	TRUE	yes																	
+2492414	FALSE	yes																	
+2492270	FALSE	yes																	
+3057291	FALSE	yes																	
+3141723	FALSE	no																	
+3223675	FALSE	yes																	
+3139811	TRUE	yes																	
+3134937	FALSE	yes																	
+3130496	TRUE	yes																	
+3126470	TRUE	yes																	
+28544348	TRUE	yes																	
+3131907	TRUE	yes																	
+3127584	TRUE	yes																	
+3233117	FALSE	yes																	
+3141863	FALSE	yes																	
+3127583	FALSE	no																	
+3125183	TRUE	yes																	
+2962561	FALSE	yes																	
+2827875	FALSE	yes																	
+3429469	TRUE	yes																	
+2827549	FALSE	yes																	
+28537349	FALSE	yes																	
+3118727	FALSE	yes																	
+2976549	FALSE	no																	
+3139460	FALSE	yes																	
+3116740	FALSE	yes																	
+2821292	FALSE	yes																	
+3118753	FALSE	yes																	
+3307992	FALSE	yes																	
+2820538	FALSE	yes																	
+28526874	FALSE	no																	
+3599221	FALSE	yes																	
+3107517	TRUE	yes																	
+3107191	FALSE	no																	
+3105854	FALSE	yes																	
+2950245	TRUE	yes																	
+3125601	FALSE	yes																	
+3109024	FALSE	yes																	
+2820009	FALSE	no																	
+2433801	FALSE	no																	
+3099271	FALSE	yes																	
+3097902	FALSE	yes																	
+3093778	FALSE	yes																	
+3095535	FALSE	yes																	
+3016627	FALSE	yes																	
+2944404	FALSE	no																	
+3009903	TRUE	yes																	
+2424128	FALSE	yes																	
+3080609	FALSE	yes																	
+3512020	FALSE	yes																	
+28490406	FALSE	no																	
+3104233	FALSE	no																	
+3088878	FALSE	no																	
+3079839	FALSE	yes																	
+3932784	FALSE	yes																	
+4023253	FALSE	yes																	
+3931536	FALSE	yes																	
+3929412	FALSE	yes																	
+2410208	FALSE	yes																	
+28455166	FALSE	yes																	
+3927800	FALSE	yes																	
+3933982	FALSE	yes																	
+6511574	FALSE	yes																	
+6237599	TRUE	yes																	
+6429330	TRUE	yes																	
+6429151	FALSE	yes																	
+6427459	TRUE	yes																	
+28452709	FALSE	no																	
+6204400	FALSE	yes																	
+6421311	FALSE	yes																	
+6420918	FALSE	yes																	
+6410425	FALSE	yes																	
+6409676	FALSE	no																	
+6407382	FALSE	yes																	
+6401197	FALSE	yes																	
+6303792	FALSE	yes																	
+28397451	FALSE	yes																	
+6814371	FALSE	yes																	
+6813786	FALSE	yes																	
+6801793	FALSE	yes																	
+6792722	FALSE	yes																	
+6795557	FALSE	yes																	
+30934180	FALSE	yes																	
+28397278	FALSE	yes																	
+28369343	FALSE	no																	
+28330628	FALSE	yes																	
+28314067	FALSE	yes																	
+28281415	TRUE	yes																	
+28267697	FALSE	yes																	
+28266691	TRUE	yes																	
+28184401	TRUE	no																	
+28146293	FALSE	yes																	
+28146289	FALSE	yes																	
+26121978	TRUE	yes																	
+23847671	TRUE	yes																	
+21455702	TRUE	yes																	
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
