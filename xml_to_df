@@ -1,0 +1,49 @@
+#This code takes PubMed complete records in xml format and returns a dataframe with PMID, year, title and abstract 
+
+
+import os
+import lxml.etree as ET2
+import pandas as pd
+import xml.etree.ElementTree as ET
+import io
+from lxml import etree
+
+my_file = open("/home/osnat/Documents/DEBBIE/polydioxanone/final_corpus_20200518/pdo_xml", "r", encoding = 'utf-8')
+
+doc = etree.parse(my_file)
+root = doc.getroot()
+result = len(root.getchildren())
+print(result)
+
+x = []
+for number in range(result):
+    x.append(number)
+
+abstracts = []
+titles = []
+PMIDS = []
+years = []
+
+
+for number in x:
+    parent = doc.xpath('.//PubmedArticle')[number]
+    year = doc.xpath('.//PubDate')[number]
+    text = []
+    pmidtext=[]
+    yeartext = []
+    for child in parent.iterdescendants(tag='PMID'):
+        pmidtext.append(child.text)
+    for child in year.iterdescendants(tag='Year'):
+        yeartext.append(child.text)
+    for child in parent.iterdescendants(tag='ArticleTitle'):
+        titles.append(child.text)
+    for child in parent.iterdescendants(tag='AbstractText'):
+        text.append(child.text)
+    abstracts.append(text)
+    PMIDS.append(pmidtext)
+    years.append(yeartext)
+
+
+abstracts_df = pd.DataFrame({"PMID": PMIDS, "Year":years, "Title": titles, "Abstracts": abstracts})
+
+abstracts_df.to_csv('pdo_final.csv', encoding='utf-8', index=False)
