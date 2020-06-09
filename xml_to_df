@@ -1,4 +1,4 @@
-#This code takes PubMed complete records in xml format and returns a dataframe with PMID, year, title and abstract 
+#This code takes PubMed complete records in xml format and returns a dataframe with PMID, publication year, title and abstract 
 
 
 import os
@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 import io
 from lxml import etree
 
-my_file = open("/home/osnat/Documents/DEBBIE/polydioxanone/final_corpus_20200518/pdo_xml", "r", encoding = 'utf-8')
+my_file = open("the_pubmed_list_xml", "r", encoding = 'utf-8')
 
 doc = etree.parse(my_file)
 root = doc.getroot()
