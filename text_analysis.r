@@ -26,6 +26,6 @@ p1 <- ggplot(data= subset(df5, total < 125 & total > 100), aes(x=Year, y=n, grou
 plot(p)
 
 # plot relative frequency between periods 
-p2 <- ggplot(df1, aes(x= df1$`post-2000`, y = df1$`pre-2000`, color = abs(df1$`post-2000`))) + geom_abline(color= 'gray40', lty=2)+ geom_text(aes(label=word), check_overlap= TRUE, vjust= 1.5)+ scale_x_log10()+ scale_y_log10()
-> plot(p)
+df <- df %>% count(period, word) %>% mutate(proportion = n/sum(n)) %>% select(-n) %>% spread(period, proportion)
+p2 <- ggplot(df, aes(x= df$`post-2000`, y = df$`pre-2000`, color = abs(df1$`post-2000`))) + geom_abline(color= 'gray40', lty=2)+ geom_text(aes(label=word), check_overlap= TRUE, vjust= 1.5)+ scale_x_log10()+ scale_y_log10()
 
