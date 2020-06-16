@@ -22,6 +22,10 @@ df2 <- left_join(df, total, by = 'word')
 df$period <- ifelse(df$Year > 2000, "post-2000", "pre-2000")
 
 # plot change over years for a subset of word count (eg: 125-150)
-p = ggplot(data= subset(df5, total < 125 & total > 100), aes(x=Year, y=n, group=word)) + geom_line(aes(color=word))+ geom_point(aes(color=word))+ geom_text(aes(label=word), hjust=0, vjust=0)+ ggtitle('word frequency between 100-125'
+p1 <- ggplot(data= subset(df5, total < 125 & total > 100), aes(x=Year, y=n, group=word)) + geom_line(aes(color=word))+ geom_point(aes(color=word))+ geom_text(aes(label=word), hjust=0, vjust=0)+ ggtitle('word frequency between 100-125'
 plot(p)
+
+# plot relative frequency between periods 
+p2 <- ggplot(df1, aes(x= df1$`post-2000`, y = df1$`pre-2000`, color = abs(df1$`post-2000`))) + geom_abline(color= 'gray40', lty=2)+ geom_text(aes(label=word), check_overlap= TRUE, vjust= 1.5)+ scale_x_log10()+ scale_y_log10()
+> plot(p)
 
