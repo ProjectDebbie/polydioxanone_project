@@ -10,9 +10,10 @@ pdo$text <- paste(pdo$Title, pdo$Abstracts)
 # tokenize, remove stop words
 t <- df %>% group_by(PMID) %>% unnest_tokens(word, text) %>% anti_join(stop_words) %>% ungroup()
 
-# Singularize and remove words shorter than 3 characters
+# Singularize and remove words shorter than 3 characters and numbers
 t$word <- singularize(t$word)
 t <- subset(t, nchar(as.character(word)) >= 3)
+df <- t[!grepl("\\(?[0-9,.]+\\)?", t$word),,drop = TRUE]
 
 # count word total, total per year and join period of publication
 df <- df %>% replace(is.na(.), 0)
