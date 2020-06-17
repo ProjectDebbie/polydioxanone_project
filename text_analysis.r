@@ -33,7 +33,7 @@ p4 <- ggplot(df, aes(x= `post-2000`, y = `pre-2000`, color = abs(`post-2000`-`pr
 
 # plot the words which appeared and disappeared over the years
 df4 <- as.data.frame(df3[(df3$`post-2000`>0),])
-df5 <- as.data.frame(df4[(df4$`pre-2000`=0),])
+df5 <- as.data.frame(df4[(df4$`pre-2000`==0),])
 top_new_words_2000 <- df5 %>% mutate(word= reorder(word, df5$`post-2000`))
 p <- ggplot(subset(top_new_words_2000, top_new_words_2000$n>0.0005), aes(word, n)) + geom_col() + ylab('Frequency of the top new terms which appeared since the year 2000') + coord_flip() 
 
