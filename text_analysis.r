@@ -30,3 +30,11 @@ plot(p)
 df <- df %>% count(period, word) %>% mutate(proportion = n/sum(n)) %>% select(-n) %>% spread(period, proportion)
 p2 <- ggplot(df, aes(x= df$`post-2000`, y = df$`pre-2000`, color = abs(df1$`post-2000`))) + geom_abline(color= 'gray40', lty=2)+ geom_text(aes(label=word), check_overlap= TRUE, vjust= 1.5)+ scale_x_log10()+ scale_y_log10()
 p4 <- ggplot(df, aes(x= `post-2000`, y = `pre-2000`, color = abs(`post-2000`-`pre-2000`)))+ geom_jitter(alpha = 0.1, size = 2.5, width = 0.3, height= 0.3) + geom_abline(color= 'gray40', lty=2)+ geom_text(aes(label=word), check_overlap= TRUE, vjust= 1.5)+ scale_x_log10()+ scale_y_log10() 
+
+# plot the words which appeared and disappeared over the years
+df4 <- as.data.frame(df3[(df3$`post-2000`>0),])
+df5 <- as.data.frame(df4[(df4$`pre-2000`=<0),])
+top_new_words_2000 <- df5 %>% mutate(word= reorder(word, df5$`post-2000`))
+p <- ggplot(subset(top_new_words_2000, top_new_words_2000$n>0.0005), aes(word, n)) + geom_col() + ylab('Frequency of the top new terms which appeared since the year 2000') + coord_flip() 
+
+
