@@ -29,4 +29,4 @@ plot(p)
 # plot relative frequency between periods 
 df <- df %>% count(period, word) %>% mutate(proportion = n/sum(n)) %>% select(-n) %>% spread(period, proportion)
 p2 <- ggplot(df, aes(x= df$`post-2000`, y = df$`pre-2000`, color = abs(df1$`post-2000`))) + geom_abline(color= 'gray40', lty=2)+ geom_text(aes(label=word), check_overlap= TRUE, vjust= 1.5)+ scale_x_log10()+ scale_y_log10()
-
+p4 <- ggplot(df, aes(x= `post-2000`, y = `pre-2000`, color = abs(`post-2000`-`pre-2000`)))+ geom_jitter(alpha = 0.1, size = 2.5, width = 0.3, height= 0.3) + geom_abline(color= 'gray40', lty=2)+ geom_text(aes(label=word), check_overlap= TRUE, vjust= 1.5)+ scale_x_log10()+ scale_y_log10() 
